@@ -8,11 +8,13 @@ Your assignment is to create a simple ASP.NET Core API with a single endpoint th
 
 Please commit your work in progress every ± 15 minutes or more often. Part of this assignment is to see how you solve the problem. Failing to commit regularly makes it very difficult for us to judge your skills.   
 
-## Time limit 
+## Time needed - 2 to 4 hours - at your own time/pace.
 
-We would like you to timebox this assignment to a maximum of 4 hours - It’s ok if you’re not “done” after 4 hours – just send us what you have, we don’t want to take up much of your time.  
+We would like you to timebox this assignment to a **maximum** of 4 hours - It’s ok if you’re not “done” after 4 hours – just send us what you have, we don’t want to take up much of your time.  
 
 We don’t mind if you keep on coding past the 4 hour mark – assignments can be fun – feel free to go ahead and commit whatever you build! It would be nice if you could indicate where you were at the ± 4 hour mark.  
+
+It's perfectly fine to split the hours over multiple days, just keep an eye on your total time invested. 
 
 ## Git Repository 
 
