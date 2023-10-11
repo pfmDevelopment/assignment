@@ -36,6 +36,6 @@ Of course you can ask questions! Feel free to email your contact person. And we�
  
 ## Tips 
 
-* Set an “egg timer” to 20 or 30 minutes to remind yourself to commit your current state of work very regularly.  It’s easy to forget once you’re in the flow.  
+* Set an “egg timer” to 15 to 20 minutes to remind yourself to commit your current state of work very regularly.  It’s easy to forget once you’re in the flow.  
  
 * It’s OK to show-off - this is a recruitment assignment in the end – but focus on the basics first. The most made “mistake” is that people go in wanting to be perfect with a wide range of dependencies and tooling. You might end up spending 4 hours getting an ecosystem of tools and techniques to work – before you even start coding on the actual assignment. We can’t stop you from doing that – but we’d like to stress that we’re not intending this exercise to be a very large assignment – so our tip: get the basics done in the first hour(s), then fill the rest of the time with incremental luxury.  
